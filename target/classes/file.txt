@@ -1,0 +1,9 @@
+1C  action	DOOM	2000	7
+20 век  comedy	Один дома	1992	5
+Madonna pop	name albom	2000	6
+Уолт    Дисней comedy  Зверополис  2016 10
+20 век  comedy  Да здравствует Цезарь!   2016 10
+20 век  comedy  Дэдпул  2016    11
+20 век  drama   Побег из Шоушенка   1994    12
+Bruno Mars  pop Runaway Baby    2016    7
+Roy Orbison pop Oh, Pretty Woman    1980    5
